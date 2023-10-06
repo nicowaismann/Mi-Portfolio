@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    width: 1920px;
+    height: 5101px;
+    background: radial-gradient(115.09% 115.19% at 117.81% 27.52%, rgba(90, 136, 255, 0.40) 0%, rgba(0, 0, 0, 0.00) 100%), #FFF;
+}
+
+.navbar{
+    width: 1920px;
+    height: 80px;
+
+    flex-shrink: 0;
+    fill: #0A31FF;
+}
+
+.presentación{
+    width: 189px;
+    height: 37px;
+    flex-shrink: 0;
+    
+    color: #FFF;
+    font-family: Krub;
+    font-size: 30.488px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 19px;
+    margin-left: 477px;
+}
+
+.habilidades{
+    width: 169px;
+    height: 37px;
+    flex-shrink: 0;
+    
+    color: #FFF;
+    font-family: Krub;
+    font-size: 30.488px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;;
+    margin-top: 19px;
+    margin-left: 780px;
+}
+
+.proyectos{
+    width: 140px;
+    height: 37px;
+    flex-shrink: 0;
+    
+    color: #FFF;
+    font-family: Krub;
+    font-size: 30.488px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 19px;
+    margin-left: 1083px;
+}
+
+.contacto{
+    width: 127px;
+    height: 37px;
+    flex-shrink: 0;
+    
+    color: #FFF;
+    font-family: Krub;
+    font-size: 30.488px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 19px;
+    margin-left: 1386px;
+}
